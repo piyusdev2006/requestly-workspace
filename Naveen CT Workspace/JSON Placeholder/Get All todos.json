@@ -1,0 +1,20 @@
+{
+  "name": "Get All todos",
+  "rank": "auntit17726066146571",
+  "request": {
+    "type": "http",
+    "url": "https://jsonplaceholder.typicode.com/users/1/todos",
+    "scripts": {
+      "preRequest": "",
+      "postResponse": ""
+    },
+    "method": "GET",
+    "queryParams": [],
+    "headers": [],
+    "contentType": "text/plain",
+    "auth": {
+      "currentAuthType": "INHERIT",
+      "authConfigStore": {}
+    }
+  }
+}

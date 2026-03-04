@@ -1,0 +1,20 @@
+{
+  "name": "Get All Photos",
+  "rank": "ak",
+  "request": {
+    "type": "http",
+    "url": "https://jsonplaceholder.typicode.com/albums/1/photos",
+    "scripts": {
+      "preRequest": "",
+      "postResponse": ""
+    },
+    "method": "GET",
+    "queryParams": [],
+    "headers": [],
+    "contentType": "text/plain",
+    "auth": {
+      "currentAuthType": "INHERIT",
+      "authConfigStore": {}
+    }
+  }
+}
