@@ -1,5 +1,5 @@
 {
-  "name": "get all comments",
+  "name": "get all comments from DB",
   "rank": "auntit17726077270111",
   "request": {
     "type": "http",
