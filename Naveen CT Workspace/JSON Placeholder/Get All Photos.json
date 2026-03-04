@@ -1,6 +1,6 @@
 {
   "name": "Get All Photos",
-  "rank": "ak",
+  "rank": "au",
   "request": {
     "type": "http",
     "url": "https://jsonplaceholder.typicode.com/albums/1/photos",
@@ -9,8 +9,18 @@
       "postResponse": ""
     },
     "method": "GET",
-    "queryParams": [],
+    "queryParams": [
+      {
+        "id": 1772607327522,
+        "key": "",
+        "value": "",
+        "isEnabled": false,
+        "description": "",
+        "dataType": "string"
+      }
+    ],
     "headers": [],
+    "body": "",
     "contentType": "text/plain",
     "auth": {
       "currentAuthType": "INHERIT",
